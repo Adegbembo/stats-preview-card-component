@@ -22,8 +22,7 @@ body {
   background-color: hsla(277, 64%, 61%, 0.97);
   background-blend-mode: multiply;
   background-size: cover;
-  min-height: 40vh;
-  
+  min-height: 30vh;
   border-top-left-radius: 0.3rem;
   border-top-right-radius: 0.3rem;
   
